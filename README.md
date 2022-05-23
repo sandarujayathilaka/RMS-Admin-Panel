@@ -15,4 +15,6 @@ This is created for Y1S1 IWT Final Project at SLIIT
 - Can view/ delete users subscribed.
 - Admin can view/delete inquiries.
 
-![This is an image]()
+## Preview
+
+![This is an image](./admin.JPG)
